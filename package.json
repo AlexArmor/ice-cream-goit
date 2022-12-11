@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://GrechkoseyNadezhda.github.io/quincy-crew-ice-cream",
+  "homepage": "https://AlexArmor.github.io/ice-cream-goit",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /quincy-crew-ice-cream/"
+    "build": "parcel build src/*.html --public-url /ice-cream-goit/"
   },
   "repository": {
     "type": "git",
@@ -28,4 +28,3 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
-
